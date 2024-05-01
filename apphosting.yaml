@@ -1,0 +1,5 @@
+env:
+  - variable: AUTH_SECRET
+    secret: AUTH_SECRET
+  - variable: OPENAI_API_KEY
+    secret: OPENAI_API_KEY
