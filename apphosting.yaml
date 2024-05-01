@@ -3,3 +3,5 @@ env:
     secret: AUTH_SECRET
   - variable: OPENAI_API_KEY
     secret: OPENAI_API_KEY
+  - variable: NEXTAUTH_URL
+    secret: NEXTAUTH_URL
